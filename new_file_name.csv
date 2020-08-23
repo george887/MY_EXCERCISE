@@ -1,0 +1,6 @@
+,tax,items
+0,0.08,"{'title': 'orange juice', 'price': 3.99, 'quantity': 1}"
+1,0.08,"{'title': 'rice', 'price': 1.99, 'quantity': 3}"
+2,0.08,"{'title': 'beans', 'price': 0.99, 'quantity': 3}"
+3,0.08,"{'title': 'chili sauce', 'price': 2.99, 'quantity': 1}"
+4,0.08,"{'title': 'chocolate', 'price': 0.75, 'quantity': 9}"
